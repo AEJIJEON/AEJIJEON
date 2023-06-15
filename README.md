@@ -1,6 +1,6 @@
 ## 😁 AEJIJEON
 
-software engineer
+product engineer
 
 
 
