@@ -1,6 +1,6 @@
 ## 😁 AEJIJEON
 
-product engineer
+Frontend Developer
 
 
 
